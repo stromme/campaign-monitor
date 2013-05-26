@@ -7,7 +7,7 @@ This plugin syncs the wp users DB with a given campaign monitor subscriber list.
 
 ## Network settings
 
-Select which campaing monitor subscribers list to sync with.
+Select which campaign monitor subscribers list to sync with.
 
 ## Adding / Removing Subscribers
 
